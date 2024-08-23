@@ -1,0 +1,3 @@
+rodar api: uvicorn main:app --reload
+
+documentação: http://127.0.0.1:8000/redoc ou http://127.0.0.1:8000/docs
